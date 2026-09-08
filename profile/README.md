@@ -1,6 +1,8 @@
-Open Engineering Diagrams
+# Open Engineering Diagrams
 
 Diagrams for understanding, explaining, investigating, and engineering systems.
+
+![Open Engineering Diagrams hero-banner.ong](../assets/hero-banner.png)
 
 Open Engineering Diagrams is the visual language and diagramming capability of the Open Engineering ecosystem.
 
@@ -10,7 +12,7 @@ If engineering is about understanding how things fit together, diagrams are one 
 
 ⸻
 
-What is Open Engineering Diagrams?
+## What is Open Engineering Diagrams?
 
 Open Engineering Diagrams provides the conventions, models, components, generators, and tooling needed to create engineering diagrams as first-class Open Engineering Elements.
 
@@ -33,10 +35,10 @@ This makes diagrams part of the engineering system rather than an artefact produ
 
 ⸻
 
-The Open Engineering Diagram
+## The Open Engineering Diagram
 
 An Open Engineering Diagram describes:
-
+```
                     ┌─────────────────────┐
                     │       Diagram       │
                     │                     │
@@ -52,7 +54,7 @@ An Open Engineering Diagram describes:
              ▼                 ▼                 ▼
         Open Engineering   Systems of Record   Evidence
            Elements
-
+```
 The important distinction is between what a diagram means and how it is rendered.
 
 The same engineering model should be capable of producing:
@@ -73,7 +75,7 @@ The same engineering model should be capable of producing:
 
 ⸻
 
-Principles
+## Principles
 
 1. Diagrams are data
 
